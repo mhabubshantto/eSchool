@@ -1,0 +1,109 @@
+.container{
+    margin-bottom: 50px;
+}
+.bodysec{
+    padding-top: 40px;
+}
+
+.headbg{
+    background-color: #F0FFF0;
+}
+#signin{
+    background-color:#21B573;
+    color:#fff;
+    border:none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.nav-item{
+    padding-left:30px;
+}
+.red{
+    color: red;
+}
+.hiliter{
+    color:#21B573 ;
+}
+.bye-now-button{
+    background-color:#21B573;
+    color:#fff;
+    border:none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.lastsec{
+    background-color:#282531;
+    color:lightgrey;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.cat2{
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow:5px 5px 10px lightgray;
+    height: 250px;
+    width: 250px;
+    
+}
+.cat1,.cat3, .cat4{
+    background-color:#F0FFF0;
+    padding: 40px;
+    border-radius: 10px;
+    height: 250px;
+    width: 250px;
+}
+.bluee{
+    color:#413960;
+    text-align: center;
+}
+.blue{
+    color:#413960;
+    
+}
+.catagoris img{
+    width: 45px;
+    height: 65px;
+    padding-bottom: 10px;
+      
+}
+.bio img{
+    width:100px;
+    height: 100px;
+    }
+.hi{
+    padding-left: 30px;
+    padding-top: 5px;
+}
+.hii{
+    padding-top: 20px;
+    padding-left: 23px;
+}
+.cardsec img{
+    padding: 20px;
+}
+.card{
+    border:none;
+    box-shadow:5px 5px 10px lightgray;
+    border-radius:10px;
+}
+.online{
+
+    padding-bottom: 50px;
+    color:#413960;
+   text-align: center;
+   text-size-adjust: bold;
+
+}
+
+
+footer{
+    
+    text-align: center;
+    background-color:#282531;
+    color:lightgrey;
+}
+h5{
+    color:white;
+}
